@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Thor",
+      "rating": 4.5,
+      "releaseDate": "10/08/2010",
+      "image": "https://i.pinimg.com/originals/6c/88/6d/6c886d3a524218c384ea11e7f5bb90f2.jpg"
+    },
+    {
+      "name": "Iron Man",
+      "rating": 3,
+      "releaseDate": "11/12/2011",
+      "image": "https://www.pixel4k.com/wp-content/uploads/2018/10/iron-man-5k-digital-artwork_1539978734.jpg"
+    },
+    {
+      "name": "End Game",
+      "rating": 2,
+      "releaseDate": "12/07/2013",
+      "image": "https://images.wallpapersden.com/image/download/poster-of-avengers-endgame-movie_a2htaGWUmZqaraWkpJRmbmdlrWZnZWU.jpg"
+    },
+    {
+      "name": "Wampire",
+      "rating": 4,
+      "releaseDate": "16/05/2009",
+      "image": "https://images6.fanpop.com/image/photos/40800000/Vampire-vampires-40854051-1920-1080.jpg"
+    },
+    {
+      "name": "Wampire 2",
+      "rating": 5,
+      "releaseDate": "16/05/2009",
+      "image": "https://images6.fanpop.com/image/photos/40800000/Vampire-vampires-40854051-1920-1080.jpg"
+    },
+    {
+      "name": "Iron Man 2",
+      "rating": 4.5,
+      "releaseDate": "10/12/2012",
+      "image": "https://www.pixel4k.com/wp-content/uploads/2018/10/iron-man-5k-digital-artwork_1539978734.jpg"
+    },
+    {
+        "name": "Camptain America",
+        "rating": 4.5,
+        "releaseDate": "10/12/2016",
+        "image": "https://wallpapercave.com/wp/wp1808936.jpg"
+      },
+      {
+        "name": "Black Widow",
+        "rating": 4.5,
+        "releaseDate": "10/12/2017",
+        "image": "https://wallsdesk.com/wp-content/uploads/2016/11/Black-Widow-Photos.jpg"
+      },
+      {
+        "name": "Mummy",
+        "rating": 3,
+        "releaseDate": "13/12/2012",
+        "image": "https://picfiles.alphacoders.com/642/64205.jpg"
+      },
+      {
+        "name": "Mummy 2",
+        "rating": 4.5,
+        "releaseDate": "10/12/2012",
+        "image": "https://picfiles.alphacoders.com/642/64205.jpg"
+      },
+      {
+        "name": "Avenger",
+        "rating": 4,
+        "releaseDate": "01/12/2012",
+        "image": "https://www.pixelstalk.net/wp-content/uploads/2016/04/Avengers-age-of-ultron-promo-wallpaper-HD.jpg"
+      },
+      {
+        "name": "Avenger 2",
+        "rating": 5,
+        "releaseDate": "01/11/2012",
+        "image": "https://www.pixelstalk.net/wp-content/uploads/2016/04/Avengers-age-of-ultron-promo-wallpaper-HD.jpg"
+      },
+      {
+        "name": "Titanic",
+        "rating": 5,
+        "releaseDate": "01/12/2008",
+        "image": "https://getwallpapers.com/wallpaper/full/5/9/0/823774-popular-wallpaper-of-titanic-1920x1200-free-download.jpg"
+      },
+      {
+        "name": "Avtar",
+        "rating": 4.5,
+        "releaseDate": "01/12/2012",
+        "image": "https://wallpapers.gg/wp-content/uploads/2017/08/Avatar-2009-Neytiri-2160x1440.jpg"
+      },
+      {
+        "name": "The Wall",
+        "rating": 3,
+        "releaseDate": "01/12/2012",
+        "image": "https://image.tmdb.org/t/p/original/eDw3ydtUpCE541mBFnEnSHyYuaH.jpg"
+      },
+      {
+        "name": "Hulk",
+        "rating": 4.6,
+        "releaseDate": "01/12/2012",
+        "image": "https://images.wallpapersden.com/image/download/avengers-hulk-game_a21taGmUmZqaraWkpJRsa21lrWloZ2U.jpg"
+      },
+      {
+        "name": "Spider Man",
+        "rating": 3,
+        "releaseDate": "01/12/2012",
+        "image": "https://wallsdesk.com/wp-content/uploads/2016/11/Spider-Man-Computer-Wallpaper.jpg"
+      },
+      {
+        "name": "Bat Man",
+        "rating": 2,
+        "releaseDate": "01/12/2012",
+        "image": "https://images.hdqwalls.com/wallpapers/batman-1989-character-5k-rr.jpg"
+      },
+      {
+        "name": "Super Man",
+        "rating": 4,
+        "releaseDate": "01/12/2012",
+        "image": "http://2.bp.blogspot.com/-Bk3rHFJTs-Q/VCUdS_yarVI/AAAAAAAAPbo/2LBRWZpF2oI/s1600/superman%2Bwallpaper%2Bhd-3.jpg"
+      },
+      {
+        "name": "D War",
+        "rating": 4,
+        "releaseDate": "01/12/2012",
+        "image": "https://www.avforums.com/styles/avf/editorial/block/0ec288866c6763b0f607a689fed29d81_3x3.jpg"
+      }
+  ];
